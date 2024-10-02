@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nolan</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **c, c++, Laravel, Tailwind**
+- 🌱 I’m currently learning **c, c++, Java, Laravel, Tailwind**
 
 - 💬 Ask me about **c, c++**
 
